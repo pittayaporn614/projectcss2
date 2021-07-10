@@ -1,0 +1,30 @@
+#firstname {
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+  }
+  #thailand {
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: darkgoldenrod;
+    color: white;
+    text-align: left;
+    font-size: 40px;
+  }
+  #section {
+      margin-top: 10px;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+  }
